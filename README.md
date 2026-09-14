@@ -17,12 +17,12 @@ O sistema aplica os descontos de forma automática conforme as seguintes faixas 
 ## 💻 Como Executar o Programa
 
 1. Certifique-se de ter o Python instalado em sua máquina.
-2. Baixe ou clone o arquivo do projeto (`seuNome_Ag6_DS_I.py`).
+2. Baixe ou clone o arquivo do projeto (`vinicius_Ag6_DS_I.py`).
 3. Abra o terminal ou prompt de comando na pasta onde o arquivo está salvo.
 4. Execute o comando abaixo:
 
 ```bash
-python seuNome_Ag6_DS_I.py
+python vinicius_Ag6_DS_I.py
 
 ```
 
